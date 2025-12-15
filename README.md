@@ -32,16 +32,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
----
-
-## 🧾 Selos de computação
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Backend-Programmer-blueviolet?style=for-the-badge" alt="Backend">
-  <img src="https://img.shields.io/badge/CLI%20Apps-Console-informational?style=for-the-badge" alt="CLI Apps">
-  <img src="https://img.shields.io/badge/Database-Lover-success?style=for-the-badge" alt="Database Lover">
-  <img src="https://img.shields.io/badge/Clean%20Code-Em%20Constru%C3%A7%C3%A3o-orange?style=for-the-badge" alt="Clean Code">
-</p>
 
 ---
 
